@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+
+html {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    text-align: left;
+    background-color: #a880ff;
+    color:#ffd800;
+    background: white url("https://media.giphy.com/media/dwaeIbBnF6HBu/giphy.gif") no-repeat center;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 45px;
+    margin: .5em;
+
+}
+
+#facts {
+    margin: .5em;
+    font-size: 25px;
+    line-height: 1.5;
+    list-style: none;
+}
+
+#facts a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+#facts mark {
+    color: white;
+    text-decoration: none;
+    background-color: #a880ff;
+    font-size: 25px;
+}
